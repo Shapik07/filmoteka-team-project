@@ -2,7 +2,7 @@
   "name": "Filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://chidorishar.github.io/filmoteka-team-project",
+  "homepage": "https://github.com/Shapik07/filmoteka-team-project.git",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /filmoteka-team-project/",
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chidorishar/filmoteka-team-project.git"
+    "url": "git+https://github.com/Shapik07/filmoteka-team-project.git"
   },
   "keywords": [],
   "author": "Team <***@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chidorishar/filmoteka-team-project/issues"
+    "url": "https://github.com/Shapik07/filmoteka-team-project.git/issues"
   },
   "dependencies": {
     "@babel/plugin-proposal-class-static-block": "^7.18.6",
